@@ -14,12 +14,6 @@ import matplotlib.pyplot as plt
 import numpy as np
 from scipy.integrate import simps
 
-"""
-
-ONLY FOR AMIGOS 
-
-"""
-
 path_amigos = './DATA/AMIGOS/Data_Preprocessed_P{}/Data_Preprocessed_P{}.mat'
 
 fs = 128
